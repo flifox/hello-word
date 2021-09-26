@@ -23,7 +23,7 @@ The current features of the program are:
 => easier it would be to send emails without typing a single word, searching on Wikipedia without actually opening the web browsers, and performing many other daily tasks with the help of a single voice command.
 => Moreover, I make a physical avatar of that robot
 
-# Conclusion: 
+# My Goal: 
 
 My goal is to make the Program a complete A.I. that can also understand Natural Language and has Machine Language too then  integrate this application into your phone or tablet as well.. I have many ideas but I am limited by my knowledge.
 
