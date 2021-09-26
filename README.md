@@ -18,8 +18,7 @@ The current features of the program are:
 - send emails/ whatsapp messages
 
 # Project Details:
-=> I used Visual Code as IDE 
-=> first step install and import all the necessary libraries
+I used Visual Code as IDE, and Python and Arduino as programming language, first step I install and import all the necessary libraries
 => easier it would be to send emails without typing a single word, searching on Wikipedia without actually opening the web browsers, and performing many other daily tasks with the help of a single voice command.
 => Moreover, I make a physical avatar of that robot
 
