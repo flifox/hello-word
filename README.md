@@ -18,10 +18,10 @@ The current features of the program are:
 - send emails/ whatsapp messages
 
 # Project Details:
-I used Visual Code as IDE, and Python and Arduino as programming language, first step I install and import all the necessary libraries
-=> easier it would be to send emails without typing a single word, searching on Wikipedia without actually opening the web browsers, and performing many other daily tasks with the help of a single voice command.
-=> Moreover, I make a physical avatar of that robot
-
+I used Visual Code as IDE, and Python and Arduino as programming language, first step I install and import all the necessary libraries, then I wrote a python and Arduino Scripts.
+With FlyFox it would easier to send emails without typing a single word, searching on Wikipedia without actually opening the web browsers, and performing many other daily tasks with the help of a single voice command.
+Moreover, I make a physical avatar of that robot
+[+] For more details please visit the folowing Link: www.google.com
 # My Goal: 
 
 My goal is to make the Program a complete A.I. that can also understand Natural Language and has Machine Language too then  integrate this application into your phone or tablet as well.. I have many ideas but I am limited by my knowledge.
