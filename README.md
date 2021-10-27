@@ -1,6 +1,6 @@
 # Introduction:  
 
-We all are familiar with Jarvis' AI assistant robot from “Iron Man'' movies and Marvel series. It has always been a dream of programmers to make something on their own. The I tried to make my own smart computer program using Python and Arduino programming. that understands human natural languages through voice commands or text and performs tasks for the user. 
+We all are familiar with Jarvis' AI assistant robot from “Iron Man'' movies and Marvel series. It has always been a dream of programmers to make something on their own. Then I tried to make my own smart computer program using Python and Arduino programming. that understands human natural languages through voice commands or text and performs tasks for the user. 
 
   
 
@@ -8,7 +8,7 @@ Why did I name the robot FlyFox ? Because it's my personal nickname!
 
   
 
-I invited my grandma, an uneducated person, to try my program to use the computer. she was reluctant at first but as soon as she said "send a message to Aicha" and the computer opened WhatsApp web and automatically sent the message, then, he had a huge smile on his face. He looked at me and said "I have never used a computer in my life, until now and I am thankful to you."  
+I invited my grandma, an uneducated person, to try my program to use the computer. she was reluctant at first but as soon as she said "send a message to Aicha" and the computer opened WhatsApp web and automatically sent the message, then, she had a huge smile on her face. He looked at me and said "I have never used a computer in my life, until now and I am thankful to you."  
 
 Those words really hit me. 
 
